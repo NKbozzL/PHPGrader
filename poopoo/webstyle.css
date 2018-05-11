@@ -1,0 +1,25 @@
+p{font-family: sans-serif;}
+h1 {font-family: sans-serif;}
+h1::first-letter {font-size: 200%;}
+h2 {font-family: sans-serif;}
+h2::first-letter {font-size: 200%;}
+h3 {font-family: sans-serif;}
+h3::first-letter {font-size: 200%;}
+h4 {font-family: sans-serif;}
+h4::first-letter {font-size: 200%;}
+h5 {font-family: sans-serif;}
+h5::first-letter {font-size: 200%;}
+h6 {font-family: sans-serif;}
+h6::first-letter {font-size: 200%;}
+ul {list-style-type: circle; font-family: sans-serif;}
+div {padding: 16px;}
+#menu{width: 15%;height:105%;text-align: left; background-color: orange;float:left;left:0;top:0;position:absolute;border-style: solid;}
+#topside{width:81%;left:17%;position: absolute;float:right; background-color:black;top:0;right:0;border-style: solid;}
+#school{width: 45%;text-align: center; background-color: red;float:left;}
+#meinfo{width: 45%;text-align: center; background-color: red;position:relative;float:right;}
+#lab{height: 85%;position: absolute;background-color: LightCoral;left: 17%;width:81%;top:19%;float:right;right:0;border-style: solid;}
+
+#copyright{float:right;background-color: red;position: absolute;bottom:-9%;left:17%;width:81%;text-align: center;border-style: solid;}
+
+#details{float:right;position: absolute;top:0;right:0;}
+a:hover{background-color: yellow;}
